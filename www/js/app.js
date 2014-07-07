@@ -1,5 +1,16 @@
 (function() {
-  angular.module('starter', ['ionic', 'starter.controllers']).config([
+  angular.module('starter', ['ionic', 'starter.controllers']).run([
+    function($ionicPlatform) {
+      return $ionicPlatform.ready(function() {
+        if (window.cordove && window.cordova.plugins.Keyboard) {
+          cordova.plugins.Keyboard.hideKeyboardAccessoryBar(true);
+        }
+        if (window.StatusBar) {
+          return StatusBar.styleDefault;
+        }
+      });
+    }
+  ]).config([
     function($stateProvider, $urlRouterProvider) {
       $stateProvider.state('app', {
         url: "/app",
