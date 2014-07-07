@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-connect/src/index.js" />
+        <item url="file://$PROJECT_DIR$/www/scripts/controllers.js" />
+        <item url="file://$PROJECT_DIR$/source/coffee/app.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/test/fixtures/test.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/test/fixtures/test.js" />
+        <item url="file://$PROJECT_DIR$/source/coffee/controllers.js" />
+        <item url="file://$PROJECT_DIR$/www/scripts/app.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-coffee/test/fixtures/grammar.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/mug.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/cup.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-connect/src/index.js" />
+      <root url="file://$PROJECT_DIR$/www/scripts/controllers.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/test/fixtures/test.js" />
+      <root url="file://$PROJECT_DIR$/source/coffee/app.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/test/fixtures/test.js" />
+      <root url="file://$PROJECT_DIR$/www/scripts/app.js" />
+      <root url="file://$PROJECT_DIR$/source/coffee/controllers.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-coffee/test/fixtures/grammar.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/mug.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/cup.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
